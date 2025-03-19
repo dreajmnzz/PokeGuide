@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PokeGuide</string>
+    <string name="app_name" translatable="false">PokeGuide</string>
+    <string name="name_pokemon">Pokemon name</string>
 </resources>
